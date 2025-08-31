@@ -1,0 +1,1 @@
+this is my frist git repo file using git and github in mingw 
